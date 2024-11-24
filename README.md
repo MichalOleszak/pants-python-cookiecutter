@@ -1,12 +1,12 @@
 # 👖🐍🍪 Pants Python Cookiecutter
 
-A Cookiecutter template for Python projects managed with the [Pants](https://www.pantsbuild.org/) bulid system.
+A [Cookiecutter](https://www.cookiecutter.io/) template for Python projects managed with the [Pants](https://www.pantsbuild.org/) build system.
 
 ## Quick start
 
 1. `pip install cookiecutter`
 2. `cookiecutter gh:MichalOleszak/pants-python-cookiecutter`
-3. Fill-in project details as requested by the prompt. 
+3. Fill in project details as requested by the prompt. 
 
 ## About
 
