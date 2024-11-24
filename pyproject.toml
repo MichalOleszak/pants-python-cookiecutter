@@ -1,0 +1,12 @@
+[project]
+name = "pants-python-cookiecutter"
+version = "0.1.0"
+authors = [
+  {name = "Michal Oleszak", email = "oleszak.michal@gmail.com"},
+]
+description = "A Cookiecutter template for Python projects with Pants build system."
+readme = "README.md"
+license = {file = "LICENSE"}
+
+[project.urls]
+Author = "michaloleszak.com"

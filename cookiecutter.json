@@ -1,0 +1,9 @@
+{
+    "project_name": "My Pants Python Project",
+    "project_description": "A short description of the project.",
+    "python_version": "3.11",
+    "author": "Michal Oleszak",
+    "author_gh_handle": "MichalOleszak",
+    "author_url": "michaloleszak.com",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}"
+  }
