@@ -20,5 +20,5 @@ See the project's [default README]({{cookiecutter.project_slug}}/README.md) for 
 
 If you find it useful, please let me know!
 
-This project is created and maintained by [Michal Oleszak](michaloleszak.com).
+This project is created and maintained by [Michal Oleszak](https://michaloleszak.com).
 
